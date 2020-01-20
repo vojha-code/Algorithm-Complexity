@@ -13,5 +13,5 @@ Runtime order of the O(1), O(n), O(log n), O(n), O(n log n), O(n^2), O(2^n) algo
 
 ![Runtime order Emperical](https://github.com/VarunKumarOjha/Algorithm-Complexity/blob/master/graph_emperical.png)
 
-*Fig. 2 Runtime order - Emperical (for a much larger n plot will change and nlogn and n^2 will show its Asymptotic behaviour)*
+*Fig. 2 Runtime order - Emperical (for a much larger n plot will change and nlogn and n^2 will show its Asymptotic behaviour)* -  Algorithm in O(n^2) is kind have a break stament for certain condition that lead to less emerical runtime.  
 
