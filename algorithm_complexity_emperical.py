@@ -12,7 +12,8 @@ def sumSeries(A):
 # Algorithm  logLoop O(log n)
 def logLoop(A):
   count = 0
-  for i in range(1,len(A)):
+  i = len(A)
+  while i > 1:
       i /= 2
       count +=1
   return count
@@ -28,10 +29,13 @@ def sumArray(A):
 # Algorithm  nLoopsLogLoop O(n log n)
 def nLoopsLogLoop(A):
   count = 0
-  for i in range(1,len(A)):
-    for j in range(len(A)):
-      j /= 2
-      count +=1
+  n = len(A)
+  for i in range(n):
+    j = n
+    print(i, end='  ')
+    while j > 1:
+        j /= 2
+        count +=1
   return count
 
 # Algorithm  Count Distinct Element O(n^2)
