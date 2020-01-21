@@ -33,7 +33,6 @@ def nLoopsLogLoop(A):
   n = len(A)
   for i in range(n):
     j = n
-    print(i, end='  ')
     while j > 1:
         j /= 2
         count +=1
