@@ -1,4 +1,4 @@
-# Algorithm-Complexity
+# Algorithm's Complexity
 Time Complexity of Algorithms
 
 1. Emperical test of an algorithm in three different language C, Java, Python
