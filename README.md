@@ -9,7 +9,7 @@ Time Complexity of Algorithms
 
 ![Complexity order plot](https://github.com/VarunKumarOjha/Algorithm-Complexity/blob/master/graph_order.png)
 
-*Fig. 1 Complexity order plotc*
+*Fig. 1 Complexity - Big Oh order plot*
 
 ![Runtime order Emperical](https://github.com/VarunKumarOjha/Algorithm-Complexity/blob/master/graph_emperical.png)
 
